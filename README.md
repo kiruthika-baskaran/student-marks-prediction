@@ -36,7 +36,7 @@ The goal of this project is to understand how study habits and attendance affect
 ---
 
 # 📂 Project Structure
-
+```bash
 student-marks-prediction
 │
 ├── data
@@ -54,7 +54,7 @@ student-marks-prediction
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
+```
 ---
 
 # 📊 Data Visualization
