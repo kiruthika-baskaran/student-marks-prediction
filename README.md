@@ -61,28 +61,23 @@ student-marks-prediction/
 
 # 📊 Data Visualization
 
-## 🔹 Study Hours vs Final Percentage
+# Student Marks Prediction
 
-![Study Hours](images/study_vs_percentage.png)
+## Study Hours vs Final Percentage
 
----
+![Study Graph](images/study_vs_percentage.png)
 
-## 🔹 Attendance vs Final Percentage
+## Attendance vs Final Percentage
 
-![Attendance](images/attendance_vs_percentage.png)
+![Attendance Graph](images/attendance_vs_percentage.png)
 
----
+## Performance Distribution
 
-## 🔹 Correlation Heatmap
+![Performance Graph](images/performance_distribution.png)
+
+## Correlation Heatmap
 
 ![Heatmap](images/heatmap.png)
-
----
-
-## 🔹 Performance Level Distribution
-
-![Performance](images/performance_levels.png)
-
 ---
 
 # 🤖 Machine Learning Model
