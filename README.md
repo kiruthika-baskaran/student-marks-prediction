@@ -37,25 +37,23 @@ The goal of this project is to understand how study habits and attendance affect
 
 # 📂 Project Structure
 
-```bash
-student-marks-prediction/
+student-marks-prediction
 │
-├── data/
+├── data
 │   └── student_data.csv
 │
-├── images/
+├── images
 │   ├── study_vs_percentage.png
 │   ├── attendance_vs_percentage.png
-│   ├── heatmap.png
-│   ├── performance_levels.png
-│   ├── pass_fail_distribution.png
+│   ├── performance_distribution.png
+│   └── heatmap.png
 │
-├── notebook/
+├── notebook
 │   └── student_analysis.ipynb
 │
 ├── README.md
 ├── requirements.txt
-```
+└── .gitignore
 
 ---
 
